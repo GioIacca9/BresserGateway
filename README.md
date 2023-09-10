@@ -1,12 +1,12 @@
 # Gateway IoT per stazioni meteo Bresser
 
 - [Gateway IoT per stazioni meteo Bresser](#gateway-iot-per-stazioni-meteo-bresser)
-	- [Introduzione](#introduzione)
-	- [Il problema](#il-problema)
-	- [Gateway](#gateway)
-	- [Programmazione del Gateway](#programmazione-del-gateway)
-	- [Configurazione](#configurazione)
-					- [Link Utili](#link-utili)
+  - [Introduzione](#introduzione)
+  - [Il problema](#il-problema)
+  - [Gateway](#gateway)
+  - [Programmazione del Gateway](#programmazione-del-gateway)
+  - [Configurazione](#configurazione)
+          - [Link Utili](#link-utili)
 
 ## Introduzione
 
@@ -213,5 +213,4 @@ Una volta connessi si verrà reindirizzati automaticamente alla pagina di config
 
 [BresserGateway su Github](https://github.com/GioIacca9/BresserGateway)
  
-AMMS
-: Autonomous Meteorologic and Monitoring System
+*[AMMS]: Autonomous Meteorologic and Monitoring System
